@@ -1,6 +1,7 @@
 # snake-reinforcement-learning
 
-Snake game AI using deep Q-networks
+Snake game AI using deep Q-networks.
+**Forked from https://github.com/choyi0521/snake-reinforcement-learning**.
 
 ## Training
 
